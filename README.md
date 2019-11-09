@@ -1,6 +1,6 @@
 # cli-image-plugin
 
-Command for manipulating images
+Commands for manipulating images
 
 Get the current image for an app
 
